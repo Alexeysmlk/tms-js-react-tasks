@@ -55,6 +55,8 @@ function reverseSort(array) {
       );
     }
   }
+
+  checkIsNumber(1);
 }
 
 export { christmasTree, reverseSort };
